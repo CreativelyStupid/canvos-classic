@@ -5,6 +5,6 @@ the really old version of that one desktop environment no one knows, made by the
 
 - this is no longer supported, and there is no guide.
 
-- this should not be to hard to figure out.
+- this should not be to hard to figure out as we have a guide for the new canvos that also is similar in some ways.
 
 find the new canvos at https://github.com/creatively-stupid/canvos
