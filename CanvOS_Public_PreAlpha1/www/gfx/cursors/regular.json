@@ -1,0 +1,30 @@
+{
+    "chars": 1,
+    "cols": {
+        "B": [0,   0,   0,   255],
+        "W": [255, 255, 255, 255],
+        "C": [0,   0,   0,   0  ]
+    },
+    "gfx": [
+        "BCCCCCCCCCCC",
+        "BBCCCCCCCCCC",
+        "BWBCCCCCCCCC",
+        "BWWBCCCCCCCC",
+        "BWWWBCCCCCCC",
+        "BWWWWBCCCCCC",
+        "BWWWWWBCCCCC",
+        "BWWWWWWBCCCC",
+        "BWWWWWWWBCCC",
+        "BWWWWWWWWBCC",
+        "BWWWWWWWWWBC",
+        "BWWWWWWWWWWB",
+        "BWWWWWWBBBBB",
+        "BWWWBWWBCCCC",
+        "BWWBCBWWBCCC",
+        "BWBCCBWWBCCC",
+        "BBCCCCBWWBCC",
+        "CCCCCCBWWBCC",
+        "CCCCCCCBBCCC"
+    ],
+    "startpos": [0, 0]
+}

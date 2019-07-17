@@ -1,0 +1,19 @@
+{
+    "chars": 1,
+    "cols": {
+        "G": [127, 127, 127, 255],
+        "D": [0,   0,   0,   255],
+        "S": [0,   0,   0,   127],
+        "C": [0,   0,   0,   0  ]
+    },
+    "gfx": [
+        "GGGGGGGC",
+        "GGGGGGGS",
+        "GGGGGGGS",
+        "DDDDDDDS",
+        "GGGGGGGS",
+        "GGGGGGGS",
+        "GGGGGGGS",
+        "CSSSSSSS"
+    ]
+}
