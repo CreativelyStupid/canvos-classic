@@ -7,4 +7,6 @@ the really old version of that one desktop environment no one knows, made by the
 
 - this should not be to hard to figure out as we have a guide for the new canvos that also is similar in some ways.
 
+- i actually wasn't part of the process of creating this so i literally just uploaded an extracted zip no one had touched in months
+
 find the new canvos at https://github.com/creatively-stupid/canvos
