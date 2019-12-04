@@ -18,4 +18,5 @@ how to install:
 i actually wasn't part of the process of creating this so i literally just uploaded an extracted zip no one had touched in months.
 
 find canvos v2 at https://github.com/creatively-stupid/canvos
+
 find canvos v3 at https://github.com/creatively-stupid/canvos-3
