@@ -3,10 +3,19 @@ the really old version of that one desktop environment no one knows, made by the
 
 - this is the old version of canvos canvos that simply drew a hecc ton of rectangles.
 
-- this is no longer supported, and there is no guide.
+- how to install:
 
-- this should not be to hard to figure out as we have a guide for the new canvos that also is similar in some ways.
+ - download and extract the zip file
+ 
+ - install node.js at https://nodejs.org/en/
+ 
+ - go to the directory of canvos classic in your terminal of choice and type `node server.js`
+ 
+ - in a web browser, go to localhost/index.html and enter fullscreen (usually by pressing F11 or the corresponding key to your OS/browser)
+ 
+ - enjoy your nonfunctional canvos
 
 - i actually wasn't part of the process of creating this so i literally just uploaded an extracted zip no one had touched in months
 
-find the new canvos at https://github.com/creatively-stupid/canvos
+find canvos v2 at https://github.com/creatively-stupid/canvos
+find canvos v3 at https://github.com/creatively-stupid/canvos-3
