@@ -1,7 +1,7 @@
 # canvos-classic
-the really old version of that one desktop environment no one knows, made by the people no one know, created by the alt no one knows
+the really old version of that one desktop environment no one knows, made by the people no one know, originally uploaded by the alt no one knows
 
-this is the old version of canvos that simply drew a hecc ton of rectangles. most things are not functional and it seems to run in 720p.
+this is the old version of canvos that simply drew a heck ton of rectangles. most things are not functional and it seems to run in 720p.
 
 how to install:
 
@@ -14,6 +14,8 @@ how to install:
  * in a web browser, go to localhost/index.html and enter fullscreen (usually by pressing F11 or the corresponding key to your OS/browser)
  
  * enjoy your nonfunctional canvos
+ 
+Canvos v2 user manual may better describe the install process, the two are similar
 
 i actually wasn't part of the process of creating this so i literally just uploaded an extracted zip no one had touched in months.
 
